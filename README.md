@@ -13,6 +13,14 @@ This project predicts the outcome of rugby matches based on historical match dat
 
 ## Project Structure
 
+/rugbypredictor
+    /data               # Store all raw and processed datasets here
+    /notebooks          # Jupyter notebooks for exploration and analysis
+    /src                # Source code (scripts for data preprocessing, model training, etc.)
+    /models             # Trained models and related files
+    /visualizations     # Charts and plots for visual exploration
+    README.md           # Project documentation
+
 ## How to Run
 
 ## Dependencies
