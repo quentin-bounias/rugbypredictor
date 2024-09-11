@@ -18,3 +18,5 @@ This project predicts the outcome of rugby matches based on historical match dat
 ## Dependencies
 
 ## Future Improvements
+
+Quentin BOUNIAS, 2024
